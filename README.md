@@ -38,7 +38,7 @@ To experience Canvas 01, simply open the `index.html` file in your browser and e
 
 ## 🌐 Live Demo
 
-Check out the live demo of Canvas 01 [here](#your-live-demo-link).
+Check out the live demo of Canvas 01 [here](https://wassimoubaziz.github.io/interactive-canvas-experience/).
 
 ## 🤝 Contributions
 
